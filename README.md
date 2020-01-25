@@ -1,7 +1,7 @@
 # About_Me
 Introduction
 ## Introduction
-My name is **Vikash Thakur**.I am pursuing **BCA** from **Manav Rachna International Insitute of Research and Studies Faridabad**.I am natively belongs to **Himachal Pradesh**. I love to Learn new things with full of enthusiasm. I have created one blog as well(https://www.instagram.com/vikash_thakur1999/) which is about keyboard Fun.
+My name is **Vikash Thakur**.I am pursuing **BCA** from **Manav Rachna International Insitute of Research and Studies Faridabad**.I am natively belongs to **Himachal Pradesh**. I love to Learn new things with full of enthusiasm. I have created one blog as well(https://www.instagram.com/vikash_thakur1999/)[<img target="_blank" src="https://img.icons8.com/color/96/000000/instagram-new.png">](https://www.instagram.com/vikash_thakur1999/)  which is about keyboard Fun.
 
 ## Skills
 **Languages** Python [<img src="https://img.icons8.com/color/30/000000/snake.png">](), C/C++, SQL.
@@ -14,4 +14,4 @@ My name is **Vikash Thakur**.I am pursuing **BCA** from **Manav Rachna Internati
 (To get a assured reply in under 5 mins :wink:)
 
 [<img src="https://img.icons8.com/office/50/000000/gmail-login.png">](mailto:tvikash446@gmail.com)
-<img src="https://img.icons8.com/color/50/000000/linkedin.png">
+
