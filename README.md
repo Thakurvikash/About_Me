@@ -10,3 +10,7 @@ My name is **Vikash Thakur**.I am pursuing **BCA** from **Manav Rachna Internati
 
 ## Connect with me
 [<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png">](https://www.linkedin.com/in/vikash-thakur-57a01017b)  [<img target="_blank" src="https://img.icons8.com/color/48/000000/github-2.png">](https://github.com/Thakurvikash)  [<img target="_blank" src="https://img.icons8.com/cute-clipart/50/000000/facebook.png">](https://www.facebook.com/profile.php?id=100006225512108)
+## Email Me
+(To get a assured reply in under 5 mins :wink:)
+
+[<img target="_blank" src="https://img.icons8.com/color/48/000000/gmail.png">](mailto:tvikash446@gmail.com)
