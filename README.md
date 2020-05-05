@@ -1,4 +1,6 @@
 # About_Me
+# <img src="https://img.icons8.com/clouds/100/000000/name.png"/>
+
 ## Introduction
 My name is **Vikash Thakur**.I am pursuing **BCA** from **Manav Rachna International Insitute of Research and Studies Faridabad**.I am natively belongs to **Himachal Pradesh**. I love to Learn new things with full of enthusiasm. I have created one blog as well (https://www.instagram.com/vikash_thakur1999/) which is about keyboard Fun.
 
