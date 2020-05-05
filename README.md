@@ -9,6 +9,12 @@ My name is **Vikash Thakur**.I am pursuing **BCA** from **Manav Rachna Internati
 
 **Tools** Well versed with Microsoft Tools.
 
+## My Resume
+Download as PDF
+
+
+[<img target="_blank" src="https://img.icons8.com/clouds/100/000000/resume.png">](https://drive.google.com/open?id=1USrn1FEwaA08bjaTdEQgrCGb3GrgQf3O) 
+
 ## Connect with me
 [<img target="_blank" src="https://img.icons8.com/color/50/000000/linkedin.png">](https://www.linkedin.com/in/vikash-thakur-57a01017b)  [<img target="_blank" src="https://img.icons8.com/color/48/000000/github-2.png">](https://github.com/Thakurvikash)  [<img target="_blank" src="https://img.icons8.com/color/48/000000/facebook.png">](https://www.facebook.com/profile.php?id=100006225512108)
 
